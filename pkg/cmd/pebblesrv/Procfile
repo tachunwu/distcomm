@@ -1,0 +1,4 @@
+shard-0: go run . --addr=localhost:30000 --data-dir=./data/0
+shard-1: go run . --addr=localhost:30001 --data-dir=./data/1
+shard-2: go run . --addr=localhost:30002 --data-dir=./data/2
+
